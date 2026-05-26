@@ -41,6 +41,12 @@
 | 06 | 特效制作 | 特效软件、动画、视觉合成 | [vfx-production.md](./vfx-production.md) |
 | 07 | 平台算法理解 | 推荐机制、用户行为、优化策略 | [platform-algorithm.md](./platform-algorithm.md) |
 
+## 实战案例
+
+| 案例 | 说明 | 涉及技能领域 | 文件 |
+|------|------|-------------|------|
+| 明日方舟游戏推广短片 | 75秒游戏推广视频全链路制作方案 | 脚本、视觉、音频、剪辑、平台算法 | [arknights-video-production.md](./production-cases/arknights-video-production.md) |
+
 ## 使用指南
 
 1. **按需查阅**：根据当前工作环节，直接进入对应分类阅读
