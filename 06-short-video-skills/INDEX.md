@@ -41,8 +41,6 @@
 | 06 | 特效制作 | 特效软件、动画、视觉合成 | [vfx-production.md](./vfx-production.md) |
 | 07 | 平台算法理解 | 推荐机制、用户行为、优化策略 | [platform-algorithm.md](./platform-algorithm.md) |
 
-## 实战案例
-
 ## 使用指南
 
 1. **按需查阅**：根据当前工作环节，直接进入对应分类阅读
